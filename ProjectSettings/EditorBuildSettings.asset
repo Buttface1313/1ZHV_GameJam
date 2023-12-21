@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ship_Level.unity
     guid: cbd6dc8171e628349b5b1edab8d29fae
+  - enabled: 1
+    path: Assets/Scenes/City_Level.unity
+    guid: b54db10365d495445af989c5f6651f64
   m_configObjects: {}

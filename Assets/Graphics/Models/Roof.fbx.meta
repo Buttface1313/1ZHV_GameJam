@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: c89fcf1686f338247b5b759dbbcc9b10
+guid: aa72cb591a9b3b345be4c9e1bda5641d
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick
+    second: {fileID: 2100000, guid: f9ddb8f6563f82d43b7d4c59c2083e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTiles
+    second: {fileID: 2100000, guid: 19b933d380e71d843b85587518431a6d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

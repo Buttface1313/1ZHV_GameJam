@@ -12,7 +12,7 @@ public class SettingsScreen : MonoBehaviour
 
     private void Awake()
     {
-        SFXVolume.value = SettingsManager.Instance.SFXVol;
+        SFXVolume.value = SettingsManager.Instance.SFXVol;  
         MusicVolume.value = SettingsManager.Instance.SFXVol;
         MouseSensitivity.value = SettingsManager.Instance.MouseSensitivity;
 
