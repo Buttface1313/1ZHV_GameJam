@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e77eba1ca271f4042894b9d5fee91dce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - W95FA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f0fbb07532368d47bc91fe8140ecacd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
