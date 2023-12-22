@@ -1807,14 +1807,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
         type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
+        type: 3}
       propertyPath: m_Volume
-      value: 0.107
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 8150f51ec631da04984147a66974dc86, type: 3}
+      objectReference: {fileID: 8300000, guid: 9f1a3b18dab6f014abe2ce5630a4470e, type: 3}
     - target: {fileID: 8518317256432754565, guid: c380e0bd5a3eb9149b9581975d1b885d,
         type: 3}
       propertyPath: m_RootOrder
@@ -6691,6 +6701,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicPlayer
       objectReference: {fileID: 0}
+    - target: {fileID: 3853417299975281288, guid: 733d616d35bd416479607ad8a1be6aa2,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5080703689370281243, guid: 733d616d35bd416479607ad8a1be6aa2,
         type: 3}
       propertyPath: m_RootOrder
@@ -6768,7 +6783,7 @@ PrefabInstance:
     - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
         type: 3}
       propertyPath: m_Volume
-      value: 0.213
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
         type: 3}
@@ -6784,7 +6799,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 9f1a3b18dab6f014abe2ce5630a4470e, type: 3}
+      objectReference: {fileID: 8300000, guid: 8150f51ec631da04984147a66974dc86, type: 3}
     - target: {fileID: 418689499425447958, guid: c380e0bd5a3eb9149b9581975d1b885d,
         type: 3}
       propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
